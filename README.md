@@ -1,6 +1,6 @@
-### EX NO: 01
+### EX NO: 04
 ### DATE:
-# <p align="center">BACK-PROPAGATION---SINGLE-NEURON-</p> 
+# <p align="center">BACK PROPAGATION IN SINGLE NEURON</p> 
 ## AIM:
 To write a python program to perform Back Propagation with Single Neuron.
 
